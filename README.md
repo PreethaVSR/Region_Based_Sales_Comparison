@@ -36,4 +36,9 @@ The goal of this project is to analyze, visualize, and compare sales performance
 
 - Tableau
 
+## Dashboard
+
+![](Sales_Region_Dashboard.jpg)
+
+
 
