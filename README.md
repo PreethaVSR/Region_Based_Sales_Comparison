@@ -1,6 +1,6 @@
 # Region Based Sales Comparison
 
-This repository provides tools and analyses for comparing sales data across different regions. It contains scripts, dashboards, and documentation to help users understand regional sales trends and identify opportunities for growth.
+This project is to  compare sales data across different regions. It contains dashboards, and documentation to help users understand regional sales trends and identify opportunities for growth.
 
 ## Project Overview
 
